@@ -1,4 +1,19 @@
-<<<<<<< HEAD
+
+/*Latest Java 
+void main() {
+    System.out.println("Hello World")
+}
+
+import java.util.*;
+
+public class P01_firstprogram { // Changed '1_firstprogram' to 'FirstProgram'
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+        System.out.println("Hello world" + " Hello dunia");
+        System.out.println("4 + 3");
+    }
+}
+
 /*Latest Java 
 void main() {
     System.out.println("Hello World")
@@ -14,20 +29,3 @@ public class P01_firstprogram { // Changed '1_firstprogram' to 'FirstProgram'
     }
 }
 
-=======
-/*Latest Java 
-void main() {
-    System.out.println("Hello World")
-}
-*/
-import java.util.*;
-
-public class P01_firstprogram { // Changed '1_firstprogram' to 'FirstProgram'
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-        System.out.println("Hello world" + " Hello dunia");
-        System.out.println("4 + 3");
-    }
-}
-
->>>>>>> fde3a46c0a3eb8e14587253af06739b89f888755
