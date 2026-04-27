@@ -14,7 +14,7 @@ In java operators are used in mathematical calculations, decison making, loop co
 
 
 import java.util.*;
-public class PO4_Operators {
+public class P04_Operators {
     public static void main(String args[]){
 
         //Arithmetic Operators
